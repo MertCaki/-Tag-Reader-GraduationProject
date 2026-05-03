@@ -64,4 +64,4 @@ Challenges Faced
 -----------------
 - PAHO MQTT failure in C++ → switched to Python
 - ESP32 lacks AMQP → fixed with exchange + routing key
-- Multi-cabin interference → fixed with wildcard subscriptions
+- Multi-cabin interference → fixed with wildcard subscriptions 
